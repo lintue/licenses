@@ -1,1 +1,1 @@
-# licences
+# licenses
